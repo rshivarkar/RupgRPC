@@ -1,0 +1,1 @@
+dotnet run C:/Code/RupgRPC/RupgRPCClient/RupgRPCClient.csproj
